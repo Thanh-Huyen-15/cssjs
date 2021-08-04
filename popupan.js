@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/Li%E1%BB%81n-k%E1%BB%81-bi%E1%BB%87t-th%E1%BB%B1-H%C3%A0-N%E1%BB%99i-1110024182490359/';
+	var url_popup = 'https://www.ivory-resort.info/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
